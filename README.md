@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gapskii
-- 👀 I’m interested in web development, mostly fron-end (yet)
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML | CSS | Javascript
 - 📫 You can reach me on my linkedin account! https://www.linkedin.com/in/mateus-augusto-gapski-100253/
 
