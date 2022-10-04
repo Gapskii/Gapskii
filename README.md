@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gapskii
 - 👀 I’m interested in web development
-- 👌 I know my fare share of HTML | CSS | Javascript
+- 👌 I know my fair share of HTML | CSS | Javascript
 - 🌱 I’m currently learning React and related libraries
 - 📫 You can reach me on my linkedin account! https://www.linkedin.com/in/mateusgapski/
 
